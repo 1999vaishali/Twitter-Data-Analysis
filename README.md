@@ -1,3 +1,4 @@
+[Twitter data analysis.docx](https://github.com/1999vaishali/Twitter-Data-Analysis/files/6748261/Twitter.data.analysis.docx)
 # Twitter-Data-Analysis
 This project includes Apache Hadoop and Apache Flume.
 
